@@ -1,0 +1,12 @@
+pi = 3.141592654
+radio = 3
+base = 4
+altura = 4 
+lado_A = 3
+lado_B = 5
+a = 5
+b = 77
+m = 80
+ace = 10
+d = 15
+t = 8
