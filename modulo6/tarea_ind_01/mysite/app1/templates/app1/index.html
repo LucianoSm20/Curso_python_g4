@@ -1,0 +1,19 @@
+
+
+{% for ramo in ramos %}
+<table class="table table-bordered">
+    <thead>
+        <tr>
+          <th scope="col">Nombre</th>
+          <th scope="col">Descripcion</th>
+        </tr>
+      </thead>
+    <tbody>
+        <tr>
+            
+            <td>{{ ramo.nombre }}</td>
+            <td>{{ ramo.descripcion }}</td>
+        </tr>
+    </tbody>
+</table>
+{% endfor %}
